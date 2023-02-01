@@ -13,3 +13,4 @@ for visualisation.<br/>
 Cherrytree freeware program to take notes. Great tool for notes or projects. <br/>
 Before i used excell or libreoffice calc for my projects. Found this tool <br/>
 and is just great and easy to use. <br/>
+extension *.ctd.
